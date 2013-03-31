@@ -1,0 +1,82 @@
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\rainbow_background.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\randomizer.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\x86\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\x86\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\paddleTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\colorblockTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\rainbow_background.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\colorblockTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\paddleTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\randomizer.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\obj\x86\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\obj\x86\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\menuLarge.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\menuSmall.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\startSceneElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\score.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\startbackground.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\VisitrumElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\SDVisitrum\Visitrum\bin\x86\Debug\Content\lives sprite.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\startSceneElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\startbackground.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\VisitrumElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\lives sprite.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\menuLarge.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\menuSmall.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\score.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\colorblockTexture.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\paddleTexture.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\randomizer.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\startSceneElements.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\startbackground.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\VisitrumElements.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\lives sprite.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\rainbow_background.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\startbackground360.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\menuLarge.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\menuSmall.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\score.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\levelText.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\score360.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\backMusic.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\menu_back.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\menu_scroll.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\menu_select3.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\backMusic.wma
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Visitrum.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Visitrum.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\EasyStorage.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\EasyStorage.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\de\EasyStorage.resources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\es\EasyStorage.resources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\fr\EasyStorage.resources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\it\EasyStorage.resources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\ja\EasyStorage.resources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\obj\x86\Debug\Visitrum.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\obj\x86\Debug\Visitrum.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerBack.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerButtonA.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerButtonB.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerButtonGuide.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerButtonX.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerButtonY.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerDPad.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerLeftShoulder.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerLeftThumbstick.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerLeftTrigger.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerRightShoulder.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerRightThumbstick.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerRightTrigger.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerSpriteFont.xnb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\x86\Debug\Content\xboxControllerStart.xnb

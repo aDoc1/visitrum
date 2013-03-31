@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>colorblockTexture.PNG</Source>
+      <Name>colorblockTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\colorblockTexture.xnb</Output>
+      <Time>2010-09-11T11:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paddleTexture.PNG</Source>
+      <Name>paddleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\paddleTexture.xnb</Output>
+      <Time>2010-09-11T11:28:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>randomizer.PNG</Source>
+      <Name>randomizer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\randomizer.xnb</Output>
+      <Time>2010-09-07T19:06:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startSceneElements.png</Source>
+      <Name>startSceneElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\startSceneElements.xnb</Output>
+      <Time>2010-09-12T18:03:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>startbackground.PNG</Source>
+      <Name>startbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\startbackground.xnb</Output>
+      <Time>2010-09-12T18:01:37-04:00</Time>
+    </Item>
+    <Item>
+      <Source>VisitrumElements.PNG</Source>
+      <Name>VisitrumElements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\VisitrumElements.xnb</Output>
+      <Time>2010-09-13T21:32:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>lives sprite.PNG</Source>
+      <Name>lives sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\lives sprite.xnb</Output>
+      <Time>2010-09-15T19:22:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rainbow_background.PNG</Source>
+      <Name>rainbow_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\rainbow_background.xnb</Output>
+      <Time>2010-12-30T14:50:33-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startbackground360.PNG</Source>
+      <Name>startbackground360</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\startbackground360.xnb</Output>
+      <Time>2011-05-15T13:01:43.8-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerBack.tga</Source>
+      <Name>xboxControllerBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerBack.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerButtonA.tga</Source>
+      <Name>xboxControllerButtonA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerButtonA.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerButtonB.tga</Source>
+      <Name>xboxControllerButtonB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerButtonB.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerButtonGuide.tga</Source>
+      <Name>xboxControllerButtonGuide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerButtonGuide.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerButtonX.tga</Source>
+      <Name>xboxControllerButtonX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerButtonX.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerButtonY.tga</Source>
+      <Name>xboxControllerButtonY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerButtonY.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerDPad.tga</Source>
+      <Name>xboxControllerDPad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerDPad.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerLeftShoulder.tga</Source>
+      <Name>xboxControllerLeftShoulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerLeftShoulder.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerLeftThumbstick.tga</Source>
+      <Name>xboxControllerLeftThumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerLeftThumbstick.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerLeftTrigger.tga</Source>
+      <Name>xboxControllerLeftTrigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerLeftTrigger.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerRightShoulder.tga</Source>
+      <Name>xboxControllerRightShoulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerRightShoulder.xnb</Output>
+      <Time>2007-09-25T14:24:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerRightThumbstick.tga</Source>
+      <Name>xboxControllerRightThumbstick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerRightThumbstick.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerRightTrigger.tga</Source>
+      <Name>xboxControllerRightTrigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerRightTrigger.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerSpriteFont.tga</Source>
+      <Name>xboxControllerSpriteFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerSpriteFont.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>xboxControllerStart.tga</Source>
+      <Name>xboxControllerStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\xboxControllerStart.xnb</Output>
+      <Time>2007-09-25T14:24:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuLarge.spritefont</Source>
+      <Name>menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\menuLarge.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menuSmall.spritefont</Source>
+      <Name>menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\menuSmall.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>score.spritefont</Source>
+      <Name>score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\score.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>levelText.spritefont</Source>
+      <Name>levelText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\levelText.xnb</Output>
+      <Time>2011-05-07T13:01:23.1604-04:00</Time>
+    </Item>
+    <Item>
+      <Source>score360.spritefont</Source>
+      <Name>score360</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\score360.xnb</Output>
+      <Time>2011-05-15T12:47:41.042-04:00</Time>
+    </Item>
+    <Item>
+      <Source>backMusic.mp3</Source>
+      <Name>backMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\backMusic.xnb</Output>
+      <Extra>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\backMusic.wma</Extra>
+      <Time>2009-07-26T14:36:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_back.wav</Source>
+      <Name>menu_back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\menu_back.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_scroll.wav</Source>
+      <Name>menu_scroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\menu_scroll.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_select3.wav</Source>
+      <Name>menu_select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\menu_select3.xnb</Output>
+      <Time>2010-07-05T00:46:17-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-18T07:30:55.636-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

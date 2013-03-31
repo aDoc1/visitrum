@@ -1,0 +1,18 @@
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\colorblockTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\paddleTexture.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\randomizer.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\startSceneElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\startbackground.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\VisitrumElements.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\lives sprite.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\rainbow_background.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\menuLarge.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\menuSmall.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\score.xnb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\Xbox 360\Debug\Visitrum.exe
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\obj\Xbox 360\Debug\Visitrum.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\XNA\Visitrum\Visitrum\bin\Xbox 360\Debug\Content\gameFont.xnb
