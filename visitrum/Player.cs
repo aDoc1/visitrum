@@ -202,23 +202,13 @@ namespace Visitrum
             {
                 paddleColor = Color.Cyan;
             }
-            //Purple
-            if (gamepadstatus.Buttons.B == ButtonState.Pressed && gamepadstatus.Buttons.X == ButtonState.Pressed || keyboard.IsKeyDown(Keys.P))
-            {
-                paddleColor = Color.Purple;
-            }
             //Brown
             if (gamepadstatus.Buttons.A == ButtonState.Pressed && gamepadstatus.Buttons.B == ButtonState.Pressed || keyboard.IsKeyDown(Keys.W))
             {
-                paddleColor = Color.Chocolate;
-            }
-            //Yellow-Green
-            if (gamepadstatus.Buttons.Y == ButtonState.Pressed && gamepadstatus.Buttons.A == ButtonState.Pressed || keyboard.IsKeyDown(Keys.T))
-            {
-                paddleColor = Color.YellowGreen;
+                paddleColor = Color.SaddleBrown;
             }
             //Gray
-            if (gamepadstatus.IsButtonDown(Buttons.RightTrigger) == true && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.E))
+            if (gamepadstatus.IsButtonDown(Buttons.RightTrigger) == true && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.Up))
             {
                 paddleColor = Color.Gray;
             }
@@ -232,15 +222,35 @@ namespace Visitrum
             {
                 paddleColor = Color.DarkRed;
             }
+            //Dark Green
+            if (gamepadstatus.Buttons.A == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.RightTrigger) == true || keyboard.IsKeyDown(Keys.M))
+            {
+                paddleColor = Color.DarkGreen;
+            }
+            //Dark Yellow
+            if (gamepadstatus.Buttons.Y == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.RightTrigger) == true || keyboard.IsKeyDown(Keys.N))
+            {
+                paddleColor = Color.Goldenrod;
+            }
             //Light Green
             if (gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true && gamepadstatus.Buttons.A == ButtonState.Pressed || keyboard.IsKeyDown(Keys.L))
             {
                 paddleColor = Color.Chartreuse;
             }
             //Pink
-            if (gamepadstatus.Buttons.B == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.Space))
+            if (gamepadstatus.Buttons.B == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.P))
             {
                 paddleColor = Color.Pink;
+            }
+            //Light Yellow
+            if (gamepadstatus.Buttons.Y == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.Z))
+            {
+                paddleColor = Color.LemonChiffon;
+            }
+            //Light Blue
+            if (gamepadstatus.Buttons.X == ButtonState.Pressed && gamepadstatus.IsButtonDown(Buttons.LeftTrigger) == true || keyboard.IsKeyDown(Keys.V))
+            {
+                paddleColor = Color.PaleTurquoise;
             }
         }
 

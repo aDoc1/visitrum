@@ -20,9 +20,9 @@ namespace Visitrum
         //Background texture box texture
         protected Texture2D textBoxTexture;
         // Fonts
-        protected readonly SpriteFont regularFont;
+        protected readonly SpriteFont regularFont, selectedFont;
         // Colors
-        protected Color regularColor = Color.White;
+        protected Color regularColor = Color.White, selectedColor = Color.Red;
         // Text Position
         protected Vector2 position = new Vector2();
         // Items

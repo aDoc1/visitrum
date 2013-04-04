@@ -117,6 +117,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="AudioLibrary.cs" />
+    <Compile Include="PauseScene.cs" />
     <Compile Include="DifficultyScene.cs" />
     <Compile Include="GameScene.cs" />
     <Compile Include="GameText.cs" />

@@ -50,6 +50,7 @@ namespace Visitrum
         protected ActionScene actionScene;
         protected GameScene activeScene;
         protected HighScoreScene highscoreScene;
+        protected PauseScene pauseScene;
 
         //Game states
         //private GamePadState gamepadstatus;
@@ -71,11 +72,19 @@ namespace Visitrum
         protected string containername = "Highscores";
         protected string filename = "Highscores.xml";
 
+        private GameScene _savedScene;
+
         //private SpriteFont gameFont;
 
         //private SimpleRumblePad rumblePad;
 
         //private Random ran;
+
+        public GameScene SavedScene
+        {
+            get { return _savedScene; }
+            set { _savedScene = value; }
+        }
 
         public Game1()
         {
@@ -183,6 +192,7 @@ namespace Visitrum
             startScene = new StartScene(this, smallFont, largeFont,
                 startBackgroundTexture, startElementsTexture);
             Components.Add(startScene);
+            this.SavedScene = startScene;
 
             // Create the Difficulty Scene
             smallFont = Content.Load<SpriteFont>("menuSmall");
@@ -214,10 +224,12 @@ namespace Visitrum
             highscoreScene = new HighScoreScene(this, startBackgroundTexture, scoreFont, largeFont);
             Components.Add(highscoreScene);
 
+            pauseScene = new PauseScene(this, smallFont, largeFont, startBackgroundTexture, startElementsTexture);
+            Components.Add(pauseScene);
+
             // Start the game in the start Scene :)
             startScene.Show();
             activeScene = startScene;
-
         }
 
         /// <summary>
@@ -229,7 +241,6 @@ namespace Visitrum
             // TODO: Unload any non ContentManager content here
         }
 
-
         /// <summary>
         /// Open a new scene
         /// </summary>
@@ -240,6 +251,7 @@ namespace Visitrum
             activeScene = scene;
             scene.Show();
         }
+
 
         /// <summary>
         /// Allows the game to run logic such as updating the world,
@@ -290,6 +302,10 @@ namespace Visitrum
             else if (activeScene == highscoreScene)
             {
                 HandleHighScoreInput();
+            }
+            else if (activeScene == pauseScene)
+            {
+                HandlePauseSceneInput();
             }
         }
 
@@ -353,6 +369,12 @@ namespace Visitrum
                     {
                         //audio.MenuBack.Play();
                         actionScene.Paused = !actionScene.Paused;
+                        if (actionScene.Paused)
+                        {
+                            //actionScene.ShowPauseMenu(this, levelTextFont);
+                            this.SavedScene = actionScene;
+                            ShowScene(pauseScene);
+                        }
                     }
                 }
             }
@@ -377,6 +399,7 @@ namespace Visitrum
                         ShowScene(difficultyScene);
                         break;
                     case 1:
+                        this.SavedScene = startScene;
                         ShowScene(highscoreScene);
                         break;
                     case 2:
@@ -429,6 +452,32 @@ namespace Visitrum
             }
         }
 
+        private void HandlePauseSceneInput()
+        {
+            GamePadState gamepadState = GamePad.GetState(PlayerIndex.One);
+            KeyboardState keyboardState = Keyboard.GetState();
+
+            if (CheckEnterA())
+            {
+                switch (pauseScene.SelectedMenuIndex)
+                {
+                    case 0:
+                        ShowScene(actionScene);
+                        break;
+                    case 1:
+                        this.SavedScene = pauseScene;
+                        ShowScene(highscoreScene);
+                        break;
+                    case 2:
+                        //ShowScene(helpScene);
+                        break;
+                    case 3:
+                        ShowScene(startScene);
+                        break;
+                }
+            }
+        }
+
         private void HandleHighScoreInput()
         {
             GamePadState gamepadState = GamePad.GetState(PlayerIndex.One);
@@ -443,7 +492,7 @@ namespace Visitrum
             else if (gamepadState.Buttons.B == ButtonState.Pressed || keyboardState.IsKeyDown(Keys.Escape))
             {
                 gameIsOver = false;
-                ShowScene(startScene);
+                ShowScene(this.SavedScene);
             }
         }
 

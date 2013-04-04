@@ -1,1 +1,2 @@
 C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum\visitrum\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\visitrum2\visitrum\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
